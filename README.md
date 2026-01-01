@@ -116,3 +116,9 @@ Found a mistake or have an improvement? See [Contributing](community/contribute.
 ---
 
 The goal: understand systems well enough to architect them yourself, and direct AI tools to implement them correctly.
+
+---
+
+## Support the Project
+
+If you find this guide helpful, please **star the repository**! It helps others find this resource and encourages further updates. 🌟
